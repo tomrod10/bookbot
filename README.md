@@ -1,2 +1,3 @@
 # bookbot
-CLI program that does static anaylis on books and prints out facts
+
+## A CLI program that does static analysis on books and prints out an interesting statistical report!
